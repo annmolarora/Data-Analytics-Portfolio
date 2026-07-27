@@ -12,4 +12,4 @@ Welcome to my Data Analytics Portfolio. This repository showcases my projects bu
 - Data Visualization
 - Dashboard Development
 
-GitHub: https://github.com/anmnolarora
+GitHub: https://github.com/annmolarora
