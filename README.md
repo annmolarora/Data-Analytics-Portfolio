@@ -13,4 +13,5 @@ Welcome to my Data Analytics Portfolio. This repository showcases my projects bu
 - Dashboard Development
 
 GitHub: https://github.com/annmolarora
+
 Linkedin: https://www.linkedin.com/in/anmol-arora-75ab63347/?skipRedirect=true
