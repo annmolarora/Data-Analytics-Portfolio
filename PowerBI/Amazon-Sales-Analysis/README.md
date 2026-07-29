@@ -42,7 +42,7 @@ The objective of this dashboard is to help business users monitor sales performa
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard screenshot here)
+![Amazon Sales Dashboard](Amazon_Dashboard.png)
 
 ---
 
