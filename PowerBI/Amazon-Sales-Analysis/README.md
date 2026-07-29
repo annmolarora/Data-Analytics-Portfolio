@@ -2,11 +2,15 @@
 
 ## 📌 Project Overview
 
-This project analyzes Amazon sales data using Power BI to uncover business insights related to sales performance, customer behavior, product trends, and order status.
+This project analyzes Amazon sales data using Microsoft Power BI. The dashboard provides insights into revenue, customer spending, payment methods, order status, and product performance through interactive visualizations.
+
+---
 
 ## 🎯 Objective
 
-The goal of this dashboard is to help business users monitor sales performance, identify top-performing products, analyze customer purchasing behavior, and support data-driven decision-making.
+The objective of this dashboard is to help business users monitor sales performance, identify top customers and products, analyze payment preferences, and track order status for better decision-making.
+
+---
 
 ## 🛠️ Tools Used
 
@@ -16,45 +20,70 @@ The goal of this dashboard is to help business users monitor sales performance, 
 - Microsoft Excel
 - SQL Server
 
-## 📈 Dashboard Features
+---
 
-- Total Revenue
-- Total Orders
-- Average Order Value
-- Total Customers
-- Order Status Analysis
-- Monthly Sales Trend
-- Category-wise Sales
-- Top 10 Products
-- Top Customers
-- Region-wise Sales
-- Interactive Slicers
+## 📊 Dashboard Features
 
-## 📊 KPIs
+- 💰 Revenue KPI
+- 📦 Total Orders KPI
+- 👥 Unique Customers KPI
+- 💵 Average Order Value
+- ❌ Cancelled Revenue
+- ✅ Delivered Revenue
+- 🚚 Delivered Orders
+- 👑 Top 5 Customers
+- 💳 Orders by Payment Method
+- 📈 Revenue by Order Status
+- 📦 Revenue by Product
+- 🌍 State Filter
+- 📋 Order Status Filter
 
-- Total Revenue
-- Total Orders
-- Average Order Value
-- Total Customers
-- Cancelled Orders
-- Delivered Orders
+---
 
 ## 📷 Dashboard Preview
 
-(Add dashboard screenshot here)
+(Add your dashboard screenshot here)
 
-## 💡 Business Insights
+---
 
-- Identified highest revenue-generating categories.
-- Compared monthly sales trends.
-- Analyzed customer purchasing patterns.
-- Tracked cancelled and delivered orders.
-- Identified top-performing products.
+## 💡 Key Insights
+
+- Total Revenue: **15M**
+- Total Orders: **200**
+- Unique Customers: **100**
+- Average Order Value: **73.25K**
+- UPI is the most frequently used payment method.
+- Recent Product generated the highest revenue.
+- Shipped orders generated the highest revenue among all order statuses.
+- Margaret Livingston is the highest spending customer.
+
+---
 
 ## 📂 Dataset
 
-The dataset contains information about customers, products, and orders.
+The dataset contains information about:
+
+- Customers
+- Products
+- Orders
+- Payment Methods
+- States
+- Order Status
+
+---
+
+## 📌 Skills Demonstrated
+
+- Data Cleaning
+- Data Modeling
+- DAX Measures
+- Interactive Dashboard Design
+- KPI Development
+- Business Insight Generation
+- Data Visualization
+
+---
 
 ## 👨‍💻 Author
 
-Anmol Arora
+**Anmol Arora**
