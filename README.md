@@ -11,7 +11,7 @@ Aspiring Data Analyst skilled in **SQL, Excel, Power BI, and DAX**, with hands-o
 - Used Excel for data preparation and DAX for KPIs.
 - Included revenue, orders, customers, and product insights.
 
-➡️ Folder: `Amazon-Sales-Analysis`
+➡️ [Open Project](./Amazon-Sales-Analysis)
 
 ---
 
@@ -20,7 +20,7 @@ Aspiring Data Analyst skilled in **SQL, Excel, Power BI, and DAX**, with hands-o
 - Created interactive Power BI visuals with DAX measures.
 - Designed an HR dashboard for business decision-making.
 
-➡️ Folder: `HR-Analytics`
+➡️ [Open Project](./HR-Analytics)
 
 ---
 
