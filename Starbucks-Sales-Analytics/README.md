@@ -4,7 +4,7 @@ An interactive Power BI dashboard designed to analyze Starbucks sales performanc
 
 ## 📊 Dashboard Preview
 
-![Starbucks Sales & Customer Analytics Dashboard](Dashboard_Screenshot.png)
+![Starbucks Sales & Customer Analytics Dashboard](Starbucks_Sales_Dashboard.png)
 
 ## 🛠️ Tools & Technologies
 
