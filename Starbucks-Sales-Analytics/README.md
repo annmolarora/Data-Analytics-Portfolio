@@ -63,14 +63,6 @@ The dashboard uses a Starbucks-inspired visual theme with:
 - Interactive Power BI visuals
 - Consistent typography and layout
 
-## 📂 Project Files
-
-| File | Description |
-|---|---|
-| `Starbucks_Dashboard.pbix` | Power BI dashboard |
-| `Dashboard_Screenshot.png` | Dashboard preview |
-| `starbucks_data.csv` | Dataset used for analysis |
-
 ## 🎯 Project Objective
 
 The objective of this project was to transform raw sales data into an interactive business intelligence dashboard that helps understand revenue performance, customer behavior, product performance, and ordering patterns.
