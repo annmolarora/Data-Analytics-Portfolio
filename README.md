@@ -24,6 +24,14 @@ Aspiring Data Analyst skilled in **SQL, Excel, Power BI, and DAX**, with hands-o
 
 ---
 
+### ☕ Starbucks Sales & Customer Analytics
+
+- Built an interactive Power BI dashboard to analyze Starbucks sales and customer behavior.
+- Created KPIs for revenue, orders, customers, quantity, and average order value.
+- Analyzed revenue trends, city performance, customer segments, categories, and top products.
+- Added interactive filters for store, city, category, customer segment, and date.
+
+➡️ [Open Project](./Starbucks-Sales-Analytics)
 
 ## 🛠️ Skills
 - SQL
