@@ -32,11 +32,6 @@ An interactive Power BI dashboard built to analyze sales performance, customer b
 - Data Visualization
 - Data Modeling
 
-## 📁 Files
-
-- `Blinkit Dashboard.pbix` – Power BI dashboard
-- `Blinkit Dashboard.png` – Dashboard preview
-
 ## 📌 Dataset
 
 The dataset used in this project is synthetic Blinkit-style data created for learning and portfolio purposes. It does not contain confidential or proprietary Blinkit data.
