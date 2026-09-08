@@ -4,7 +4,7 @@ An interactive Power BI dashboard built to analyze sales performance, customer b
 
 ## 📊 Dashboard Preview
 
-![Blinkit Dashboard](Blinkit%20Dashboard.png)
+![Blinkit Dashboard](Blinkit Dashboard Preview.jpg)
 
 ## 🎯 Key KPIs
 
